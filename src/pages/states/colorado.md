@@ -1,7 +1,7 @@
 ---
 heading: Great coffee with a conscience
 path: /colorado
-templateKey: product-page
+templateKey: state-page
 title: Our Coffee
 tags: ["colorado", "Denver Metro", "Colorado Springs"]
 image: /img/jumbotron.jpg
