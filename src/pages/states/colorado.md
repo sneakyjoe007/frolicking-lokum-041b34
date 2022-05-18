@@ -3,7 +3,7 @@ heading: Great coffee with a conscience
 path: /colorado
 templateKey: state-page
 title: Our Coffee
-tags: ["colorado", "Denver Metro", "Colorado Springs"]
+tags: ["Colorado", "Denver Metro", "Colorado Springs"]
 image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
